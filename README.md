@@ -1,8 +1,8 @@
 ### Hi there 👋
-<img width="500" height="500" src="https://github.com/WolffRuoff/WolffRuoff/blob/master/ethan2.svg">
+
 <!--
 **WolffRuoff/WolffRuoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img width="500" height="500" src="https://github.com/WolffRuoff/WolffRuoff/blob/master/ethan2.svg">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
