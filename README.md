@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img width="256" height="256" src="https://www.dropbox.com/s/k0wfalvat3w7y7b/ethan2.svg?dl=0">
 <!--
 **WolffRuoff/WolffRuoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
