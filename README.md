@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/WolffRuoff/WolffRuoff/blob/master/Banner.gif" align="center" style="width: 100%" />
+<img src="https://github.com/WolffRuoff/WolffRuoff/blob/master/Github-Banner.gif" align="center" style="width: 100%" />
 </div>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=exofalcon99&cover_image=true" />
