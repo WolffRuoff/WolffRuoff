@@ -2,9 +2,14 @@
 <img src="https://github.com/WolffRuoff/WolffRuoff/blob/master/Banner.gif" align="center" style="width: 100%" />
 </div>  
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=exofalcon99&cover_image=true" />
+</div>
+
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=wolffruoff&&style=flat-square" align="center" />
 </div>
+
+
 <!--
 **WolffRuoff/WolffRuoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width="500" height="500" src="https://github.com/WolffRuoff/WolffRuoff/blob/master/ethan2.svg">
