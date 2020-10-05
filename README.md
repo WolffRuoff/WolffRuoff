@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.gif" align="center" style="width: 100%" />
+<img src="https://github.com/WolffRuoff/WolffRuoff/blob/master/Banner.gif" align="center" style="width: 100%" />
 </div>  
 <!--
 **WolffRuoff/WolffRuoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
