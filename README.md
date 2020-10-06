@@ -1,3 +1,12 @@
+<div align="right">
+<a href="https://linkedin.com/in/ethanruoff" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/wolffruoff" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+</div>
+
 <div align="center">
     <img src="https://github.com/WolffRuoff/WolffRuoff/blob/master/Github-Banner.gif" style="width: 100%" />
 </div>
@@ -26,14 +35,17 @@ The pandemic has been an interesting time for me. While I did have to leave my s
 - I'm a third degree black belt in Karate<br>
 - I've sung at Radio City Music Hall
 - I prefer tabs over spaces
+<br>
 
-<div><img src="https://spotify-github-profile.vercel.app/api/view?uid=exofalcon99&cover_image=true" /></div>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=exofalcon99&cover_image=true" />
+
+<br>
 
 ## Some Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolffruoff&theme=vue" /> <img src="https://github-readme-stats.vercel.app/api?username=wolffruoff&theme=vue&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolffruoff&theme=vue" /> <img valign="top" src="https://github-readme-stats.vercel.app/api?username=wolffruoff&theme=vue&show_icons=true&count_private=true" />
 
-
+<br>
 <!--
 **WolffRuoff/WolffRuoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width="500" height="500" src="https://github.com/WolffRuoff/WolffRuoff/blob/master/ethan2.svg">
