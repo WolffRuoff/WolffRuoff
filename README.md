@@ -27,7 +27,7 @@ The pandemic has been an interesting time for me. While I did have to leave my s
 - I've sung at Radio City Music Hall
 - I prefer tabs over spaces
 
-<div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=exofalcon99&cover_image=true" />
+<div><img src="https://spotify-github-profile.vercel.app/api/view?uid=exofalcon99&cover_image=true" /></div>
 
 ## Some Stats
 
