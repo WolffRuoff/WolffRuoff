@@ -10,7 +10,7 @@ Hi, I'm Ethan. I'm a senior at Muhlenberg College double majoring in Business Ad
 
 The pandemic has been an interesting time for me. While I did have to leave my study abroad program early, I did gain the extra time to learn tons of new skills including:
 
-<table>
+<table class="d-none">
     <tr>
         <td valign="top">
 
