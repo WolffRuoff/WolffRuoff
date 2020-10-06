@@ -19,19 +19,6 @@ The pandemic has been an interesting time for me. While I did have to leave my s
 - Raspberry Pi
 <br> 
 
-## Fun Facts
-
-- I’m the President and Founder of Muhlenberg College's Computer Science Club<br>
-- I created and led a hackathon last year!<br>
-- I'm a third degree black belt in Karate<br>
-- I've sung at Radio City Music Hall
-- I prefer tabs over spaces
-<br>
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=exofalcon99&cover_image=true" />
-
-<br>
-
 ## Connect With Me
 
 <div align="center">
@@ -45,6 +32,19 @@ The pandemic has been an interesting time for me. While I did have to leave my s
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 </div>
+<br>
+
+## Fun Facts
+
+- I’m the President and Founder of Muhlenberg College's Computer Science Club<br>
+- I created and led a hackathon last year!<br>
+- I'm a third degree black belt in Karate<br>
+- I've sung at Radio City Music Hall
+- I prefer tabs over spaces
+<br>
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=exofalcon99&cover_image=true" />
+
 <br>
 
 ## Some Stats
