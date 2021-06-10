@@ -5,18 +5,11 @@
 <br>
 
 ## About Me
-Hi, I'm Ethan. I'm a senior at Muhlenberg College double majoring in Business Administration and Computer Science with a minor in Innovation and Entrepreneurship. I aspire to help companies reach their full potential by updating and creating new technologies specifically purposed to improve the efficiency and productivity within the organization.
+
+Hi, I'm Ethan. After graduating from Muhlenberg College, Magna Cum Laude, with a double major in Computer Science and Business Administration and a minor in Innovation and Entrepreneurship, I am now pursuing a Master of Science in Computer Science from Columbia University.
 <br>
 
-The pandemic has been an interesting time for me. While I did have to leave my study abroad program early, I did gain the extra time to learn tons of new skills including:
-
-- Javascript
-- Genetic Algorithms
-- SEO
-- Drawing in Illustrator
-- SVG Animation
-- 3D Printing
-- Raspberry Pi
+This summer, I'm interning at Vanguard as an Application Developer where I'm learning tons of great skills including AWS!
 <br> 
 
 ## Connect With Me
@@ -37,10 +30,10 @@ The pandemic has been an interesting time for me. While I did have to leave my s
 ## Fun Facts
 
 - I’m the President and Founder of Muhlenberg College's Computer Science Club<br>
-- I created and led a hackathon last year!<br>
+- I created and led a hackathon<br>
 - I'm a third degree black belt in Karate<br>
+- I like to teach myself unique instruments (so far I've learned the theremin and tongue drum)<br>
 - I've sung at Radio City Music Hall
-- I prefer tabs over spaces
 <br>
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=exofalcon99&cover_image=true" />
