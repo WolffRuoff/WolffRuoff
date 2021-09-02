@@ -6,12 +6,13 @@
 
 ## About Me
 
-Hi, I'm Ethan. After graduating from Muhlenberg College, Magna Cum Laude, with a double major in Computer Science and Business Administration and a minor in Innovation and Entrepreneurship, I am now pursuing a Master of Science in Computer Science from Columbia University.
+Welcome to my Github Profile! After graduating from Muhlenberg College, Magna Cum Laude, with a double major in Computer Science and Business Administration and a minor in Innovation and Entrepreneurship, I am now pursuing a Master of Science in Computer Science from Columbia University.
 <br>
 
-This summer, I'm interning at Vanguard as an Application Developer where I'm learning tons of great skills including AWS!
+I'm currently interning at Vanguard as an Application Developer where I'm learning tons of great skills including AWS!
 <br> 
 
+Check out my website [here](https://ethanruoff.com) 
 ## Connect With Me
 
 <div align="center">
