@@ -37,10 +37,6 @@ Check out my website [here](https://ethanruoff.com)
 - I've sung at Radio City Music Hall
 <br>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=exofalcon99&cover_image=true" />
-
-<br>
-
 ## Some Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolffruoff&theme=vue" /> <img valign="top" src="https://github-readme-stats.vercel.app/api?username=wolffruoff&theme=vue&show_icons=true&count_private=true" />
