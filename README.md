@@ -30,10 +30,10 @@ Check out my website [here](https://ethanruoff.com)
 
 ## Fun Facts
 
-- I’m the President and Founder of Muhlenberg College's Computer Science Club<br>
+- I'm Founder of Muhlenberg College's Computer Science Club<br>
 - I created and led a hackathon<br>
 - I'm a third degree black belt in Karate<br>
-- I like to teach myself unique instruments (so far I've learned the theremin and tongue drum)<br>
+- I like to teach myself unique instruments (so far I've learned the theremin, tongue drum, & Ocarina)<br>
 - I've sung at Radio City Music Hall
 <br>
 
