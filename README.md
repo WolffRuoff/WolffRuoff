@@ -6,10 +6,8 @@
 
 ## About Me
 
-Welcome to my Github Profile! After graduating from Muhlenberg College, Magna Cum Laude, with a double major in Computer Science and Business Administration and a minor in Innovation and Entrepreneurship, I am now pursuing a Master of Science in Computer Science from Columbia University.
-<br>
+Welcome to my Github Profile! I'm currently a backend software engineer at Dow Jones. I recently earned a Master of Science in Computer Science from Columbia University.
 
-I'm currently interning at Vanguard as an Application Developer where I'm learning tons of great skills including AWS!
 <br> 
 
 Check out my website [here](https://ethanruoff.com) 
@@ -30,7 +28,7 @@ Check out my website [here](https://ethanruoff.com)
 
 ## Fun Facts
 
-- I'm Founder of Muhlenberg College's Computer Science Club<br>
+- I founded Muhlenberg College's Computer Science Club<br>
 - I created and led a hackathon<br>
 - I'm a third degree black belt in Karate<br>
 - I like to teach myself unique instruments (so far I've learned the theremin, tongue drum, & Ocarina)<br>
