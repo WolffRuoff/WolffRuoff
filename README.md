@@ -1,19 +1,22 @@
-<div align="center">
-    <img src="https://github.com/WolffRuoff/WolffRuoff/blob/master/Github-Banner.gif" style="width: 100%" />
-</div>
+## Hi, I'm Ethan Ruoff!
 
-<br>
-
-## About Me
-
-Welcome to my Github Profile! I'm currently a backend software engineer at Dow Jones. I recently earned a Master of Science in Computer Science from Columbia University.
-
-<br> 
-
-Check out my website [here](https://ethanruoff.com) 
-## Connect With Me
-
-<div align="center">
+```javascript
+const ethan = {
+    pronouns: ["he", "him", "his"],
+    job: {
+        position: "Software Engineer 2",
+        company: "Dow Jones"
+    },
+    hobbies: ["boardgames", "bookbinding", "singing"],
+    languages: [TypeScript, JavaScript, GraphQL, Python, Rust, Java],
+    randomStuffAboutMe: [
+        "I'm a third-degree black belt in Karate",
+        "I used to work at a boardgame cafe in Denmark",
+        "I opened for the Rockettes at Radio City Music Hall"
+    ]
+}
+```
+<div>
 <a href="https://linkedin.com/in/ethanruoff" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -24,19 +27,3 @@ Check out my website [here](https://ethanruoff.com)
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 </div>
-<br>
-
-## Fun Facts
-
-- I founded Muhlenberg College's Computer Science Club<br>
-- I created and led a hackathon<br>
-- I'm a third degree black belt in Karate<br>
-- I like to teach myself unique instruments (so far I've learned the theremin, tongue drum, & Ocarina)<br>
-- I've sung at Radio City Music Hall
-<br>
-
-## Some Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolffruoff&theme=vue" /> <img valign="top" src="https://github-readme-stats.vercel.app/api?username=wolffruoff&theme=vue&show_icons=true&count_private=true" />
-
-<br>
