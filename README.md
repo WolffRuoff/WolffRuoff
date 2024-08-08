@@ -3,6 +3,8 @@
 ```javascript
 const ethan = {
     pronouns: ["he", "him", "his"],
+    website: "https://ethanruoff.com",
+    websiteButAscii: "https://wolffruoff.github.io/ASCII-Portfolio/",
     job: {
         position: "Software Engineer 2",
         company: "Dow Jones"
