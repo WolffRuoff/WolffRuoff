@@ -6,14 +6,14 @@ const ethan = {
     website: "https://ethanruoff.com",
     websiteButAscii: "https://wolffruoff.github.io/ASCII-Portfolio/",
     job: {
-        position: "Software Engineer 2",
-        company: "Dow Jones"
+        position: "Senior Software Engineer",
+        company: "Klaviyo"
     },
-    hobbies: ["boardgames", "bookbinding", "singing"],
-    languages: [TypeScript, JavaScript, GraphQL, Python, Rust, Java],
+    hobbies: ["board games", "bookbinding", "singing"],
+    languages: [TypeScript, Python, GraphQL, Rust, Java],
     randomStuffAboutMe: [
         "I'm a third-degree black belt in Karate",
-        "I used to work at a boardgame cafe in Denmark",
+        "I used to work at a board game cafe in Denmark",
         "I opened for the Rockettes at Radio City Music Hall"
     ]
 }
